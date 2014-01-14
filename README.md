@@ -1,5 +1,5 @@
 # XZ Service
-Mac OS X service to compress/decompress files with [xz](http://tukaani.org/xz/).
+OS X 10.8 Mountain Lion (and later) service to compress/decompress files with [xz](http://tukaani.org/xz/).
 
 ## Install
 1. You need to install `xz` via [Homebrew](http://brew.sh/) or via <http://tukaani.org/xz/> to use *XZ Service*.
