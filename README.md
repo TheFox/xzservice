@@ -14,7 +14,7 @@ OS X 10.8 Mountain Lion (and later) service to compress/decompress files with [x
 4. After installation you will find a `xz` entry in the Finder Services section. Use this to compress and decompress files.
 
 ## License
-Copyright (C) 2014 Christian Mayer (<thefox21at@gmail.com> - <http://fox21.at>)
+Copyright (C) 2014 Christian Mayer <http://fox21.at>
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
