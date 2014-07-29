@@ -11,7 +11,7 @@ OS X 10.8 Mountain Lion (and later) service to compress/decompress files with [x
 	`git clone https://github.com/TheFox/xzservice.git`
 
 3. Double click the `xz.workflow` item.
-4. After installation you will find a `xz` entry in the Finder Services section. Use this to compress and decompress files.
+4. After installation you will find a `xz` entry in the Finder Services section. Use this to compress and decompress files. Select multiple files to compress/decompress each one.
 
 ## License
 Copyright (C) 2014 Christian Mayer <http://fox21.at>
