@@ -4,11 +4,11 @@ OS X 10.8 Mountain Lion (and later) service to compress/decompress files with [x
 ## Install
 1. You need to install `xz` via [Homebrew](http://brew.sh/) or via <http://tukaani.org/xz/> to use *XZ Service*.
 	
-	`brew install xz`
+		brew install xz
 
 2. Download XZ Service
 	
-	`git clone https://github.com/TheFox/xzservice.git`
+		git clone https://github.com/TheFox/xzservice.git
 
 3. Double click the `xz.workflow` item.
 4. After installation you will find a `xz` entry in the Finder Services section. Use this to compress and decompress files. Select multiple files to compress/decompress each one.
